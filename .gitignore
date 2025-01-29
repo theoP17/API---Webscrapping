@@ -1,0 +1,5 @@
+kaggle.json
+*.pyc
+database.sqlite
+Iris.csv
+__pycache__/
